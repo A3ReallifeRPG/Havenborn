@@ -1,13 +1,22 @@
 # Havenborn
-Public Release of Arma 3 Havenborn Map.
-This terrain was created by the [RealLifeRPG](https://realliferpg.de/) Team (Rangoo, Jan, Happy, Clark, ..). Its development is now continued by Rangoo.
+![Banner](https://i.imgur.com/KjsMD03.png)
 
-# Contact
+Public Release of Arma 3 Havenborn Map.
+This terrain was created by the [RealLifeRPG](https://realliferpg.de/) Team (Rangoo, Jan, Happy, Clark, ..). Its development is now continued by [Rangoo](https://github.com/Rangooo1337).
+
+## Install / Use
+Simply download this Repository and place the `@Havenborn` folder in your Arma 3 directory. 
+
+You will also need to install [CUP Terrains Core](http://cup-arma3.org/) to be able to use the map.
+
+## Contact / Contribute
 In case of any questions or if help is needed please open an issue. 
 
 You can also contact us directly < ADD LINK HERE >
 
-# LICENSE
+If you want to contribute please get in touch with Rangoo.
+
+## LICENSE
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to **use** it in any Arma 3 project with the following **exceptions**:
 
 **Exceptions:**
