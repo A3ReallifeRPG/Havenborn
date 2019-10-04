@@ -14,7 +14,7 @@ You will also need to install [CUP Terrains Core](http://cup-arma3.org/) to be a
 ## Contact / Contribute
 In case of any questions or if help is needed please open an issue. 
 
-You can also contact us directly < ADD LINK HERE >
+You can also contact us directly [Discord](https://discord.gg/A6ZvQtt/)
 
 If you want to contribute please get in touch with Rangoo.
 
