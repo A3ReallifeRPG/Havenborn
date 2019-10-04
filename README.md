@@ -17,7 +17,7 @@ You can also contact us directly < ADD LINK HERE >
 If you want to contribute please get in touch with Rangoo.
 
 ## LICENSE
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to **use** it in any Arma 3 project with the following **exceptions**:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to **use** it in any Arma 3 project (also in monetizes projects) with the following **exceptions**:
 
 **Exceptions:**
 - It is prohibited to use this software in any project that violates the licensing agreements of any other party involved in the project.
