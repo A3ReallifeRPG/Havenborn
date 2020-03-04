@@ -4,7 +4,7 @@
 ![Banner](https://i.imgur.com/KjsMD03.png)
 
 Public Release of Arma 3 Havenborn Map.
-This terrain was created by the [RealLifeRPG](https://realliferpg.de/) Team (Rangoo, Jan, Happy, Clark, ..). Its development is now continued by [Rangoo](https://github.com/Rangooo1337).
+This terrain was created by the [RealLifeRPG](https://realliferpg.de/) Team (Rangoo, Jan, Happy, Clark, Ryu, Cerberus, CptPeakz, Sylter, Oetzii, vabenne, Wachter). Its development is now continued by [Rangoo](https://github.com/Rangooo1337) & Alessio B.
 
 ## Install / Use
 Simply download this Repository and place the `@Havenborn` folder in your Arma 3 directory. 
