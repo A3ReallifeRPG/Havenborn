@@ -28,6 +28,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 **Conditions:**
 - Appropriate credit must be given to the authors of this Software. This is best done by including a link to this repository visible to users of your modpack like a credits page and when downloading.
+- Any changes made to the source files of the Software must be published under the same license terms.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
@@ -41,5 +42,6 @@ Jede Person die eine Kopie dieser Software oder ihrer beiligenden Dokumentation 
 
 **Bedingungen:**
 - Die Quelle der Software muss auf angemessene Art klargestellt werden. Am besten durch einen Link zu diesem Repository für die Nutzer des Modpacks einsehbar, beispielsweise auf einer "Credits"-Seite oder direkt zum Download.
+- Jegliche Änderungen an den Source Dateien müssen unter der gleichen Lizenz wieder veröffentlicht werden.
 
 Die Software wird ohne jegliche Garantie zur Verfügung gestellt.
